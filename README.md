@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Yejoong (Paul) Kim!
+Hi! My name is Yejoong (Paul) Kim!
 
 - I'm currently learning Rust and reviewing Python and Java!
 - Pronouns: He/Him/His
