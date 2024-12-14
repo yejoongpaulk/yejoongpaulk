@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm Yejoong (Paul) Kim!
+
+- I'm currently learning Rust and reviewing Python and Java!
+- Pronouns: He/Him/His
+- Hobbies: Music, Reading
